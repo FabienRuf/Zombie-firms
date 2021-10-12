@@ -13,8 +13,8 @@ This is code of a current Research project at the University of St.Gallen and is
   - Approximate and fill missing values
 
 ### 3 calculations:
-  - Make calculations and create new variable
-  - Apply bankrupcty model (O-score, CHS model) and economic profit figure
+  - Make calculations and create new variables
+  - Apply bankrupcty models (O-score, CHS model) and economic profit figure
 
 ### 4 analysis:
   - Adjustments to data after calculations
