@@ -3,19 +3,19 @@ This is code of a current Research project at the University of St.Gallen and is
 
 ## Overview:
 
-# 1 queries:
+### 1 queries:
   - Establish connection to Wharton Research Data Services (WRDS) interface
   - Retrieve different datasets from Compustat and CRSP databases with interrelated queries and first adjustments to save the raw data
 
-# 2 data wrangling:
+### 2 data wrangling:
   - Combine with other datasets (e.g. inflation data from FRED)
   - Clean data and adjust scales
   - Approximate and fill missing values
 
-# 3 calculations:
+### 3 calculations:
   - Make calculations and create new variable
   - Apply bankrupcty model (O-score, CHS model) and economic profit figure
 
-# 4 analysis:
+### 4 analysis:
   - Adjustments to data after calculations
   - Workbench of all code for visualizations (no final script, just archive of previous code)
