@@ -11,8 +11,8 @@ wrds <- dbConnect(Postgres(),
                   port=9737,
                   dbname='wrds',
                   sslmode='require',
-                  user='fabienruf',
-                  password='passwortexample') # use your own wharton login data
+                  user='usernameexample',
+                  password='passwordexample') # use your own wharton login data
 
 rm(list=setdiff(ls(), "wrds"))
 
